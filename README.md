@@ -4,7 +4,7 @@
 
 ## *Sponsoring Company or Organization*
 
-**Idaho National Laboratory***
+**Idaho National Laboratory**
 
 ## *Short Project Description*
 
@@ -23,7 +23,7 @@ This project aims to use cutting edge Machine Learning and Aritificial Intellige
 
 ## Project Team
 - *Dr. Nicholas Kaminiski* - *Idaho National Laboratory* - Technical Advisor/Mentor 
-- *Dr. Milos Manic* - *Department* - Faculty Advisor
+- *Dr. Milos Manic* - *Computer Science* - Faculty Advisor
 - *Margarette Duckett* - *Computer Science* - Project Manager
 - *Michael Ott* - *Computer Science* - Test Engineer
 - *Kareem Aboulhosn* - *Computer Science* - Systems Engineer
