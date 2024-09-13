@@ -12,8 +12,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
 | Week 1 Status Report | 1st week of classes | N/A | No problems to report! |
-| Week 2 Status Report |Bid on capstone projects | Submite bids on Edusourced|No issues! |
-| Week 3 Status Report |Meet me project mentor and faculty advisor |formed group chat and discord |No issues |
+| Week 2 Status Report |Bid on capstone projects | Submit bids on Edusourced|No issues! |
+| Week 3 Status Report |Meet with project mentor and faculty advisor |Formed group chat and Discord |No issues |
 | Week 4 Status Report |Specify 2 week period for literature review on topic. |Narrow down project scope. Identified 2 sources for literature review. |No issues to report! |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
