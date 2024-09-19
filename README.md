@@ -1,12 +1,12 @@
-# *Your Project Description*
+# *CS-25-342 Machine Learning IDS*
 
 **ML/AI to Detect Anomalies in 5G Networks**
 
-## *Sponsoring Company or Organization*
+## *Sponsoring Company*
 
 **Idaho National Laboratory**
 
-## *Short Project Description*
+## *Project Description*
 
 This project aims to use cutting edge Machine Learning and Aritificial Intelligence techniques to detect anomaly based intrusions in 5G networks. 
 
