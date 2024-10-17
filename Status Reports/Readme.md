@@ -16,10 +16,10 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 3 Status Report |Meet with project mentor and faculty advisor |Formed group chat and Discord |No issues |
 | Week 4 Status Report |Specify 2 week period for literature review on topic. |Narrow down project scope. Identified 2 sources for literature review. |No issues to report! |
 | Week 5 Status Report |Keep looking into literature |Identified scope of work |Set time with faculty advisor  |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
+| Week 6 Status Report |Work on project proposal desgn |Narrowed down scope of project |No issues!  |
+| Week 7 Status Report |Project proposal drafting |Defined project goals and drafted proposal sections |No Issues! |
+| Week 8 Status Report |Project proposal |Completed project plan and submitted proposal |No issues |
+| Week 9 Status Report |Project proposal review |Completed validation of project plan |No issues |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
