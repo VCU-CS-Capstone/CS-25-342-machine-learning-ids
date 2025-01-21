@@ -20,9 +20,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 7 Status Report |Project proposal drafting |Defined project goals and drafted proposal sections |No Issues! |
 | Week 8 Status Report |Project proposal |Completed project plan and submitted proposal |No issues |
 | Week 9 Status Report |Project proposal review |Completed validation of project plan |No issues |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
+| Week 10 Status Report |Settled on Primary data set |Review last group's decision tree code to determine viability |No issues |
+| Week 11 Status Report |Discovered last group's Github was unavailable. |Implemented and tested decision tree component |No issues |
+| Week 12 Status Report |Tested decision tree with real data successfully |Finalized Fall poster & successfully implemented Naive Bayes |No issues |
 | Week 13 Status Report | | | |
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |
