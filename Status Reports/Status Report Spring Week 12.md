@@ -9,13 +9,13 @@ Nicholas Kaminski
 **Faculty Advisor:**
 Milos Manic
 ## 1) Accomplishments this week ##
-   - Put together docker files for the hybrid model
+   - Created demo video for the project and sent it to the team for review.
    
 ## 2) Milestones to be completed next week ##
-   - Begin testing UI for the hybrid model
+   - Make sure everything is ready for expo day and that the project is functioning properly.
 
 ## 3) Issues, problems or concerns ##
-   - Team communication has fallen off a bit, but we are working on it.
+   - N/A
    
 
 
